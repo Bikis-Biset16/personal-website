@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "name": "Bikis",
+    "title": "Software Engineer",
+    "tagline": "Building elegant solutions with React, Next.js & Python",
+    "location": "Your City, Country",
+    "email": "hello@yourdomain.com"
+  },
+  "about": {
+    "intro": "I'm a software engineer passionate about building clean, scalable applications.",
+    "highlights": [
+      "5+ years of professional development experience",
+      "Full-stack expertise with React/Next.js and Python",
+      "Strong focus on code quality, testing, and UX"
+    ]
+  },
+  "skills": [
+    { "name": "Python", "category": "language", "level": 5 },
+    { "name": "Next.js", "category": "framework", "level": 5 },
+    { "name": "FastAPI", "category": "framework", "level": 4 }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Portfolio Framework",
+      "description": "Customizable personal website with Next.js and FastAPI.",
+      "tags": ["Next.js", "FastAPI", "TypeScript"],
+      "featured": true
+    }
+  ]
+}
