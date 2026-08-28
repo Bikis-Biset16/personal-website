@@ -7,7 +7,6 @@ export const siteConfig: SiteConfig = {
       "Personal portfolio of Bikis — software engineer specializing in full-stack development with React, Next.js, and Python.",
     author: "Bikis",
     url: "https://yourdomain.com",
-  
   },
   profile: {
     name: "Bikis Biset",
