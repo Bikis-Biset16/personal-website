@@ -152,3 +152,4 @@ Set `NEXT_PUBLIC_API_URL` to your deployed API URL in production.
 ## License
 
 MIT — use freely for your personal portfolio.
+
